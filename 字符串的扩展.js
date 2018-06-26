@@ -32,3 +32,4 @@ function test(){
 }
 test`${++a1}好${--a1}`
 //用途一过滤html字符串窜用途二国际化
+//11、Sjring.raw()
