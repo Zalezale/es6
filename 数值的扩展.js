@@ -14,3 +14,10 @@ console.log(Number.EPSILON)
 //Number.isSafeInteger  判断数值是否越界
 console.log(Number.MAX_SAFE_INTEGER)
 console.log(Number.MIN_SAFE_INTEGER)
+//5Math对象方法补充
+//一、去除小数trunc()2、判定数为正数负数还是零sign()3、计算立方根cbrt（）4、计算二进制前导零的个数5、保证大数的积的精度imul()6、返回一个数的32位单精度浮点数形式fround（）7、返回所有参数平方和的平方根hypot（）
+//二、对数方法
+//三、双曲函数方法
+//6、指数运算符
+console.log(2**2)
+
