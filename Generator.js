@@ -54,4 +54,8 @@ let generator4 = fn4()
 for(let pro of generator4){
     console.log(pro)
 }
-//总是返回遍历器对象
+//总是返回遍历器对象，不能和new一起使用
+//遍历器可以作为状态机使用 
+//传值调用与传名调用
+//trunk：将传入多个参数执行的函数转变为每一次只传入单个参数的若干函数组合
+//co模块
