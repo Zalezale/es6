@@ -19,4 +19,8 @@
  * 使用extends继承
  * 使用import取代require
  * 使用export取代module.exports
+ * 模块多个输出值用普通，单个用export default，不能同时用
+ * 不在模块中使用通配符
+ * 默认输出对象首字母大写，如果是函数则小写
+ * 
  */
